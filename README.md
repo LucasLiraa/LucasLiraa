@@ -4,8 +4,8 @@
 - 📖 Estudando TypeScript, React e Interfaces Adaptativas com IA
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasliraa&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasliraa&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasliraa&show_icons=true&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasliraa&layout=compact&theme=github_dark_dimmed)
 
 <!-- GithubContacts -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lira-18217532a/)
