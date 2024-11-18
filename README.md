@@ -1,6 +1,6 @@
 ## Hello World!🚀🌌
 
-- 🔭 Atualmente estou focado no Front-end e me desenvolvendo em FullStack
+- 🔭 Atualmente tenho mais domínio no Front-End, mas desenvolvendo minhas habilidades como FullStack
 - 📖 Estudando TypeScript, React e Interfaces Adaptativas com IA
 - 🔗 Entre em contato comigo! email: lucas.palira@gmail.com
 
